@@ -19,3 +19,7 @@ h5,
 h6 {
     color: #003913;
 }
+
+.circular {
+    border-radius: 100%;
+}
